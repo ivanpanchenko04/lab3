@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+}
+
+img {
+    width: 70%;
+    height: auto;
+}
+
+.contacts {
+    text-align: center;
+}
+
+a {
+    color: black;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+button {
+    cursor: pointer;
+    background-color: rgb(224, 170, 99);
+    border: 1px solid rgb(117, 117, 117);
+}
